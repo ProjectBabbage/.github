@@ -1,4 +1,4 @@
-Welcome to **Project Babbage**, a project to meet new tech saavy people and explore a hot subject in a weekend.
+Welcome to **Project Babbage**, a project to meet new tech-savvy people and explore a hot subject in a weekend.
 Eventually, we want to create a growing community of people that supports each other and can implement new ideas, build products (and perhaps companies) together.
 
 We do that in the form of editions, which are:
