@@ -1,5 +1,3 @@
-# Project Babbage
-
 Welcome to **Project Babbage**, a project to meet new tech saavy people and explore a hot subject in a weekend.
 Eventually, we want to create a growing community of people that supports each other and can implement new ideas, build products (and perhaps companies) together.
 
