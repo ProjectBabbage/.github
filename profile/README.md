@@ -9,9 +9,15 @@ We do that in the form of editions, which are:
 
 ## 📅 Upcoming Edition
 
-- **Edition 5**: this edition in 2024 will probably be centered on LLM (AI has been so hot lately, we can't ignore it 🔥🤖)
+- **Edition 6**: TBD
+
 
 ## 🎉 Past Editions
+
+- **Edition 5**: (_May 8-9, 2024_): [YouShallNotPass](https://github.com/ProjectBabbage/YouShallNotPass) 🔥🤖
+
+  - **Theme**: Configure a LLM with a preprompt giving it a password. It shall not reveal the password when being prompted by the user!  (list participants, check repo + non commiters!)
+  - **X Participants**: [arthurescriou](https://github.com/arthurescriou) [QGarchery](https://github.com/QGarchery) [mlgarchery](https://github.com/mlgarchery) [DemiBSel](https://github.com/DemiBSel) [npasquie](https://github.com/npasquie) nnalpon toumz
 
 - **Edition 4** (_May 27-29, 2023_): [Vox nuntius](https://github.com/ProjectBabbage/vox-nuntius) 📜
 
