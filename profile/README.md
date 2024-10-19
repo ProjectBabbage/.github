@@ -17,7 +17,7 @@ We do that in the form of editions, which are:
 - **Edition 5**: (_May 8-9, 2024_): [YouShallNotPass](https://github.com/ProjectBabbage/YouShallNotPass) 🔥🤖
 
   - **Theme**: Configure a LLM with a preprompt giving it a password. It shall not reveal the password when being prompted by the user!  (list participants, check repo + non commiters!)
-  - **7 Participants**: [arthurescriou](https://github.com/arthurescriou) [QGarchery](https://github.com/QGarchery) [mlgarchery](https://github.com/mlgarchery) [DemiBSel](https://github.com/DemiBSel) [npasquie](https://github.com/npasquie) nnalpon toumz
+  - **8 Participants**: [arthurescriou](https://github.com/arthurescriou) [QGarchery](https://github.com/QGarchery) [mlgarchery](https://github.com/mlgarchery) [DemiBSel](https://github.com/DemiBSel) [npasquie](https://github.com/npasquie) nnalpon toumz maevadn
 
 - **Edition 4** (_May 27-29, 2023_): [Vox nuntius](https://github.com/ProjectBabbage/vox-nuntius) 📜
 
